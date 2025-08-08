@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Banner Image -->
-![Banner]([https://ibb.co.com/3yxkX7q0](https://ibb.co.com/3yxkX7q0))
+![Banner](https://i.postimg.cc/SxPhyZLV/2025-05-29-T11-02-38-640-Z-tail-Thumbnail-16-9-copy-3.jpg)
 
 # Md Al Amin  
 ### Full Stack Developer | MERN Stack Enthusiast
