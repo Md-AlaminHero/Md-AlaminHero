@@ -69,17 +69,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I enjoy bu
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Md-AlaminHero's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-AlaminHero&theme=dark&hide_border=true)
 ---
 
 *Last updated: August 2025*  
