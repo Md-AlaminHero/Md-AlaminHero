@@ -63,15 +63,13 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I enjoy bu
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalamin)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alamin-pro/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.al.amin.200289/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdal_ammin/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.al.amin.200289/) 
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Md Al Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalamin&layout=compact&theme=radical)  
+![Md Al Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin&show_icons=true&theme=radical)    
 
 ---
 
