@@ -70,7 +70,6 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I enjoy bu
 ## 📊 GitHub Stats  
 
 ![Md-AlaminHero's Stats](https://github-readme-stats.vercel.app/api?username=Md-AlaminHero&theme=dark&show_icons=true&hide_border=true&count_private=false)
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Md-AlaminHero&theme=merko)](https://git.io/streak-stats)
 ![Md-AlaminHero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-AlaminHero&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
