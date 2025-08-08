@@ -69,8 +69,17 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I enjoy bu
 
 ## 📊 GitHub Stats  
 
-![Md Al Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin&show_icons=true&theme=radical)    
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>  
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 *Last updated: August 2025*  
