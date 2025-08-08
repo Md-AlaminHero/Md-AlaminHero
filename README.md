@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Banner Image -->
-![Banner](https://your-image-url.com/banner-image.jpg)
+![Banner]([https://your-image-url.com/banner-image.jpg](https://ibb.co.com/3yxkX7q0))
 
 # Md Al Amin  
 ### Full Stack Developer | MERN Stack Enthusiast
@@ -61,8 +61,9 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I enjoy bu
 ## 📫 Connect with me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalamin)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdalamin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdalamin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alamin-pro/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.al.amin.200289/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdal_ammin/)  
 
 ---
 
