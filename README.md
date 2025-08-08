@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Banner Image -->
-![Banner]([https://your-image-url.com/banner-image.jpg](https://ibb.co.com/3yxkX7q0))
+![Banner]([https://ibb.co.com/3yxkX7q0](https://ibb.co.com/3yxkX7q0))
 
 # Md Al Amin  
 ### Full Stack Developer | MERN Stack Enthusiast
