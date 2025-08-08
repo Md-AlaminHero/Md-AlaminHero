@@ -69,7 +69,8 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I enjoy bu
 
 ## 📊 GitHub Stats  
 
-![Md-AlaminHero's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-AlaminHero&theme=dark&hide_border=true)
+![Md-AlaminHero's Stats](https://github-readme-stats.vercel.app/api?username=md-alaminhero&theme=dark&show_icons=true&hide_border=true&count_private=false)
+
 ---
 
 *Last updated: August 2025*  
